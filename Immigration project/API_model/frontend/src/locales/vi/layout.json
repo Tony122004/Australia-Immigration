@@ -1,0 +1,24 @@
+﻿{
+  "sidebar": {
+    "quickActions": "Tác vụ nhanh",
+    "recentTopics": "Chủ đề gần đây",
+    "progress": "Tiến độ",
+
+    "chatAssistant": "Trợ lý Chat",
+    "pointsCalculator": "Tính điểm",
+    "documents": "Tài liệu",
+    "timeline": "Dòng thời gian",
+
+    "skilledMigration": "Định cư tay nghề",
+    "partnerVisa": "Visa bạn đời",
+    "studentVisa": "Visa du học",
+
+    "eligibility": "Điều kiện",
+    "documentsProgress": "Tài liệu",
+    "points": "Điểm"
+  },
+  "header": {
+    "title": "Trợ lý Di trú Úc",
+    "subtitle": "Vận hành bởi AI • Cập nhật theo quy định 2026"
+  }
+}

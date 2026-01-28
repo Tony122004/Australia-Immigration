@@ -1,0 +1,24 @@
+﻿{
+  "sidebar": {
+    "quickActions": "Quick Actions",
+    "recentTopics": "Recent Topics",
+    "progress": "Progress",
+
+    "chatAssistant": "Chat Assistant",
+    "pointsCalculator": "Points Calculator",
+    "documents": "Documents",
+    "timeline": "Timeline",
+
+    "skilledMigration": "Skilled Migration",
+    "partnerVisa": "Partner Visa",
+    "studentVisa": "Student Visa",
+
+    "eligibility": "Eligibility",
+    "documentsProgress": "Documents",
+    "points": "Points"
+  },
+  "header": {
+    "title": "Australian Immigration Assistant",
+    "subtitle": "Powered by AI • Updated with 2026 regulations"
+  }
+}
